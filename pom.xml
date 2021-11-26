@@ -12,7 +12,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <aspectj.version>1.9.8.RC2</aspectj.version>
+        <aspectj.version>1.9.8.RC3</aspectj.version>
         <aspectj-maven.version>1.14.0</aspectj-maven.version>
     </properties>
 
