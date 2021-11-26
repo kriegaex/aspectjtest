@@ -9,5 +9,5 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface BarAnnotation {
     // Note the attribute does not have any default value
-    String name() default "DEFAULT";
+    String name();
 }
